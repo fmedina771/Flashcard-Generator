@@ -1,0 +1,19 @@
+{
+  "name": "flascard-generator",
+  "version": "1.0.0",
+  "description": "backend for a basic flashcard application",
+  "main": "'",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fmedina771/Flashcard-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fmedina771/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/fmedina771/Flashcard-Generator#readme"
+}
